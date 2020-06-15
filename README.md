@@ -4,6 +4,7 @@ Validations
 - It determines that the size must be equal to the specified value.
 
 @NotNull
+
 -Does not allow a null value, which is what Spring MVC generates if the entry is empty.
 
 @Min
